@@ -22,11 +22,13 @@ Para verificar que se instaló correctamente y que versión utilizamos:
 java -version
 ```
 
+## Creación, compilación y ejecución del programa
+
 Ahora deberiamos de tener una salida de todas las opciones de ejecución de Java.
 
 Una vez hecho eso creamos nuestra clase "Hola mundo" con el código correspondiente.
 
-```
+```java
 public class Hello_World {
     public static void main(String[] args){
 
