@@ -24,6 +24,8 @@ java -version
 
 ## Creación, compilación y ejecución del programa
 
+
+### Creación:
 Ahora deberiamos de tener una salida de todas las opciones de ejecución de Java.
 
 Una vez hecho eso creamos nuestra clase "Hola mundo" con el código correspondiente.
@@ -37,12 +39,15 @@ public class Hello_World {
     }
 }
 ```
+
+### Compilación:
+
 Para compilar debemos utilizar *javac*, que es el compilador de java.
 
 ```
 javac Hello_world.java
 ```
-
+### Ejecución:
 Deberiamos de tener un nuevo archivo con la extension **.class**, este archivo es el que se puede ejecutar, basta con lanzar el siguiente comando:
 
 ```
