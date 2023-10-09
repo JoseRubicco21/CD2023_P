@@ -12,3 +12,12 @@
 - La aplicación debe de poder cargar imagenes en computadores.
 - La aplicación debe de poder dar de alta nuevos equipos 
 - La aplicación debe de poder dar de alta nuevas imagenes almacenadas en una base de datos
+
+# Toma de apuntes 
+
+- La aplicación debe de poder crear notas
+- La aplicación debe de poder eliminar notas
+- La aplicación debe de poder modificar notas
+- La aplicación debe de poder ordenar las notas según criterios
+    - Fecha de creación
+    - Etiquetas
