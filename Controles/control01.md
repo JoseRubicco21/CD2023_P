@@ -20,3 +20,4 @@
     ``` 
 7.- Se ha creado el archivo `raiz.py`
 8.- Se añadió el código dado al archivo `raiz.py`
+9.- Se ha cambiado el archivo `raiz.py` para obtener el número por teclado según establecido en el código insertado anteriormente.
