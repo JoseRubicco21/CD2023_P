@@ -21,3 +21,14 @@
 7.- Se ha creado el archivo `raiz.py`
 8.- Se añadió el código dado al archivo `raiz.py`
 9.- Se ha cambiado el archivo `raiz.py` para obtener el número por teclado según establecido en el código insertado anteriormente.
+10.- Se ha ejecutado el programa con `python3 raiz.py`
+    10.1.- Resultado devuelto de la ejecución:
+    ```
+    Enter a number: 2
+    The square root of 2.000 is 1.414
+    ```
+    10.2.- Resultado de la segunda ejecución:
+    ```
+    Enter a number: 9
+    The square root of 9.000 is 3.000
+    ```
