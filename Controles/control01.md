@@ -19,3 +19,4 @@
     s8:  35total
     ``` 
 7.- Se ha creado el archivo `raiz.py`
+8.- Se añadió el código dado al archivo `raiz.py`
