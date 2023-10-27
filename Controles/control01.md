@@ -18,3 +18,4 @@
     s7: total 35
     s8:  35total
     ``` 
+7.- Se ha creado el archivo `raiz.py`
